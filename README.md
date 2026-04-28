@@ -1,2 +1,1 @@
-# offsec-toolkit
-Custom recon, enumeration, and exploitation utilities I've built while learning offensive security.
+A growing collection of small security tools and scripts I've built while developing my offensive security skills. Each project lives in its own subdirectory with a dedicated README explaining its purpose and usage.
